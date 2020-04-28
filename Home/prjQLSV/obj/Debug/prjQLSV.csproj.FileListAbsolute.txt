@@ -1,0 +1,11 @@
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\bin\Debug\prjQLSV.exe.config
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\bin\Debug\prjQLSV.exe
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\bin\Debug\prjQLSV.pdb
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.csprojResolveAssemblyReference.cache
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.Home.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.Login.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.Properties.Resources.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.UpdatePoint.resources
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.csproj.GenerateResource.Cache
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.exe
+D:\HeeYee\Source\TaiLieuHocTap\Nam4_HocKi_2\dotNet\labs\lab6\Home\prjQLSV\obj\Debug\prjQLSV.pdb

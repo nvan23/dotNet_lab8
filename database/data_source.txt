@@ -1,0 +1,4 @@
+Data Source=35.240.239.99;
+Initial Catalog=lab8;
+UID=sqlserver;
+Password=************;
